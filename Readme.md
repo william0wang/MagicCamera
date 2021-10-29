@@ -12,6 +12,11 @@
  - 人像风格迁移，可以让你的照片变老、变年轻、变发色等
  - 美颜相机，支持磨皮、瘦脸和各种滤镜效果
  - 艺术效果，让你的照片别成各种艺术风格
+<p align="center">
+    <img src="screenshot/image1.jpg" width="200px">
+    <img src="screenshot/image2.jpg" width="200px">
+    <img src="screenshot/image3.jpg" width="200px">
+</p>
 
 ## 实现
 
