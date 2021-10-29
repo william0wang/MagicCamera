@@ -1,0 +1,110 @@
+/* 
+  Localizable.strings
+  MagicCamera
+
+  Created by William on 2020/12/17.
+  
+*/
+
+AppName = "魔法相机";
+FX = "特效";
+SaveFile = "保存到相册";
+TakePhoto = "拍照";
+BACK = "< 返回";
+
+CanGet="你可以获得:";
+CanGet1="无限动漫人像";
+CanGet2="享用所有滤镜";
+CanGet3="无限次保存";
+CanGet4="优先体验新功能";
+SubscribeInfo="付费将会在您确认购买后从iTunes帐户收取。系统将会为您自动延续订阅，除非在当前订阅期结束前24小时关闭自动续订设定。您的帐户将会在此订阅期结束前24小时内被收取下一期的续订资费，并确认续订的费用。订阅将由您自行调控，自动续订功能可于购买后在用户的“帐户设定”关闭。当您购买该版本的订阅后，将会丧失该版本免费试用期内没有使用完的部份。";
+CartoonOk="您的特效已生成";
+ShowNow="立即查看";
+UnlockShowAd="观看视频免费解锁";
+SubscribeNow="马上订阅，跳过广告";
+Loading="请稍等...";
+
+ArtTab="艺术相机";
+CartoonTab="漫画相机";
+StyleTab="特效相机";
+BeautyCam="美颜相机";
+aged="皱纹";
+attgan_old="变老";
+attgan_young="变年轻";
+attgan_blond_hair="金发";
+attgan_brown_hair="棕发";
+attgan_mustache="胡子";
+attgan_male="变性别";
+
+warpgan8="油画效果";
+chosoda8="细田守";
+cpaprika8="新海诚";
+chayao8="宫崎骏 II";
+warpgan8="印象派";
+hayao="宫崎骏";
+paprika="新海诚 II";
+photo2cartoon8="卡通";
+photo2cartoon="卡通";
+photo2cartoon_flower="卡通樱花";
+photo2cartoon_bubble="卡通泡泡";
+photo2cartoon_romance="卡通浪漫";
+photo2cartoon_colorful="卡通缤纷";
+
+origin="原图";
+toon="彩铅描边";
+kuwahara="油画效果";
+pixellate="马赛克";
+lomo="经典LOMO";
+fleeting="流年";
+hdr="HDR";
+thin="瘦脸";
+glass="眼镜";
+
+Clarendon="克拉伦登";
+Gingham="条纹";
+Lark="欢乐";
+Moon="月光";
+Reyes="雷兹";
+Juno="朱诺";
+Slumber="睡眠";
+Crema="油脂";
+Ludwig="路德维格";
+Aden="亚丁湾";
+Perpetua="四季开花";
+Amaro="阿莫洛";
+Mayfair="上流社会";
+Rise="升起";
+Hudson="河流";
+Valencia="巴伦西亚";
+Sierra="山脉";
+Willow="杨柳";
+Lo-Fi="低保真";
+Earlybird="晨鸟";
+Brannan="布兰南";
+Inkwell="墨水池";
+Hefe="酵母";
+Nashville="那什维尔";
+Sutro="箴言";
+Toaster="烤面包";
+Walden="瓦尔登湖";
+Kelvin="温标";
+Stinson="斯廷森";
+Vesper="黄昏";
+Maven="专家";
+Ginza="银座";
+Skyline="地平线";
+Dogpatch="多帕奇";
+Brooklyn="布鲁克林";
+Helena="晴菜";
+Ashby="阿什比";
+Charmes="魅力";
+
+
+style_pointillism8="点彩画";
+style_starry_night8="星月夜";
+style_la_muse="缪斯";
+style_rain_princess="雨公主";
+style_udnie="Udnie";
+style_wave="冲浪";
+style_shipwreck_minotaur="运输船遇难";
+style_the_scream="呐喊";

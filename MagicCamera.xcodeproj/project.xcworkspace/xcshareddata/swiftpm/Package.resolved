@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Alamofire",
+        "repositoryURL": "https://gitee.com/william0wang/Alamofire.git",
+        "state": {
+          "branch": null,
+          "revision": "d120af1e8638c7da36c8481fd61a66c0c08dc4fc",
+          "version": "5.4.4"
+        }
+      },
+      {
+        "package": "Lottie",
+        "repositoryURL": "https://gitee.com/william0wang/lottie-ios.git",
+        "state": {
+          "branch": null,
+          "revision": "79a0b70547f7c40ea54c67487f935fa2f2eaaadc",
+          "version": "3.2.3"
+        }
+      },
+      {
+        "package": "MetalPetal",
+        "repositoryURL": "https://gitee.com/william0wang/MetalPetal.git",
+        "state": {
+          "branch": null,
+          "revision": "d403162c4a09d21ed5a049a05fc1b9fb6a16f3f2",
+          "version": "1.15.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

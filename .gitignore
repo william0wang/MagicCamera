@@ -1,0 +1,5 @@
+Pods/
+Podfile.lock
+build/XCBuildData/
+MagicCamera.xcodeproj/xcuserdata/
+MagicCamera.xcodeproj/project.xcworkspace/xcuserdata/

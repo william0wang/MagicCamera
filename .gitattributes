@@ -1,0 +1,2 @@
+*.mlmodel filter=lfs diff=lfs merge=lfs -text
+*.car filter=lfs diff=lfs merge=lfs -text

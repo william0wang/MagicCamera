@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  MagicCamera
+
+  Created by William on 2021/5/26.
+  
+*/
+
+CFBundleDisplayName = "魔法相机";
