@@ -42,6 +42,8 @@
 - 艺术效果fast-neural-style模型转换为CoreML模型文件。项目地址：
 [https://github.com/william0wang/fast-neural-style](https://github.com/william0wang/fast-neural-style)
 
-### 二、集成模型
+## 后续计划
 
-未完待续...
+首先，计划未来一段时间，把开发过程中的心得和各种技术细节通过文章分享给大家，希望对大家能用帮助。
+
+在功能方面，当前已经实现了AI相机App最流行的拍照功能。后续计划会增加更多视频相关功能，入视频变脸等。
