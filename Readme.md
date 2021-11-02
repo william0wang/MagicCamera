@@ -4,6 +4,8 @@
 
 *文档持续更新中，后续会有详细教程*
 
+**Github LFS 有流量限制，请从网盘下载预训练模型文件**
+
 ## 简介
 
 魔法相机是一款基于SwiftUI和CoreML开发的 iOS AI 相机应用，实现了下列功能：
@@ -18,11 +20,21 @@
     <img src="screenshot/image3.jpg" width="200px">
 </p>
 
-## 实现
+##  AI模型
 
 各种AI特效都基于苹果的CoreML开发，不需要访问网络，iOS13 以上设备都可以使用。
 
-### 一、准备模型
+### 一、下载模型
+
+
+从网盘下载预训练模型，并将其解压到 ```MagicCamera/Vision/models``` 目录下
+
+从 [百度网盘链接](https://pan.baidu.com/s/1DvKXY2XwTYvZhsGEWx6iXw) 下载，提取码: **vib8**
+
+从 [Google Drive](https://drive.google.com/file/d/1T644NT5GnzBlKgQnxL6eEMcTqZShs7dK/view?usp=sharing) 下载
+
+
+### 二、模型源码
 
 #### 人像卡通化
 
